@@ -1,0 +1,14 @@
+{
+  "video": "mona-lisa.avi",
+  "frames": 558,
+  "tracked_frames": 558,
+  "tracking_percent": 100.0,
+  "modes": {
+    "detect": 194,
+    "flow": 364,
+    "hold": 0,
+    "lost": 0
+  },
+  "processing_seconds": 11.6,
+  "processing_fps": 48.09
+}

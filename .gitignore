@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 .mplconfig/
 lab1/results/custom/
+lab2/results/*.avi
+# Исходные MP4 могут содержать звук. Для публикации используются немые AVI.
+test-videos/*.mp4

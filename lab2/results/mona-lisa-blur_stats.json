@@ -1,0 +1,14 @@
+{
+  "video": "mona-lisa-blur.avi",
+  "frames": 558,
+  "tracked_frames": 558,
+  "tracking_percent": 100.0,
+  "modes": {
+    "detect": 175,
+    "flow": 382,
+    "hold": 1,
+    "lost": 0
+  },
+  "processing_seconds": 11.53,
+  "processing_fps": 48.42
+}

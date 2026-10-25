@@ -1,0 +1,20 @@
+{
+  "video": "my_video_dualsense.avi",
+  "roi": [
+    305,
+    205,
+    300,
+    210
+  ],
+  "frames": 493,
+  "tracked_frames": 493,
+  "tracking_percent": 100.0,
+  "modes": {
+    "detect": 98,
+    "flow": 395,
+    "hold": 0,
+    "lost": 0
+  },
+  "processing_seconds": 18.53,
+  "processing_fps": 26.61
+}

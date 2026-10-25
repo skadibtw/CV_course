@@ -1,0 +1,14 @@
+{
+  "video": "mona-lisa-blur-extra-credit.avi",
+  "frames": 558,
+  "tracked_frames": 558,
+  "tracking_percent": 100.0,
+  "modes": {
+    "detect": 175,
+    "flow": 381,
+    "hold": 2,
+    "lost": 0
+  },
+  "processing_seconds": 11.59,
+  "processing_fps": 48.15
+}
