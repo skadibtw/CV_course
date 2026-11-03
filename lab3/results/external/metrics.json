@@ -1,0 +1,28 @@
+{
+  "images": 18,
+  "correct": 5,
+  "accuracy": 0.2777777777777778,
+  "classes": [
+    "angular_leaf_spot",
+    "bean_rust",
+    "healthy"
+  ],
+  "confusion": [
+    [
+      5,
+      1,
+      0
+    ],
+    [
+      6,
+      0,
+      0
+    ],
+    [
+      5,
+      1,
+      0
+    ]
+  ],
+  "model_sha256": "d056fb94d652d1c908c42011ecb9147b52040c16b19646b685ac1737405ab9ad"
+}

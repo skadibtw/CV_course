@@ -8,3 +8,4 @@ lab2/results/*.avi
 # Исходные MP4 могут содержать звук. Для публикации используются немые AVI.
 test-videos/*.mp4
 lab3/data/raw/
+lab3/test_external.py
