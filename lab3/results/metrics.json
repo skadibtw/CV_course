@@ -1,0 +1,48 @@
+{
+  "classes": [
+    "angular_leaf_spot",
+    "bean_rust",
+    "healthy"
+  ],
+  "epochs": 20,
+  "best_epoch": 19,
+  "parameters": 153619,
+  "device": "cpu",
+  "metrics": {
+    "train": {
+      "images": 1034,
+      "correct": 835,
+      "loss": 0.5127321022852708,
+      "accuracy": 0.8075435203094777
+    },
+    "val": {
+      "images": 133,
+      "correct": 100,
+      "loss": 0.5451457158739406,
+      "accuracy": 0.7518796992481203
+    },
+    "test": {
+      "images": 60,
+      "correct": 53,
+      "loss": 0.39480292797088623,
+      "accuracy": 0.8833333333333333
+    }
+  },
+  "test_confusion": [
+    [
+      17,
+      3,
+      0
+    ],
+    [
+      3,
+      17,
+      0
+    ],
+    [
+      0,
+      1,
+      19
+    ]
+  ]
+}

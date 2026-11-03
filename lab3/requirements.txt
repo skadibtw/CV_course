@@ -1,0 +1,6 @@
+-r ../requirements.txt
+torch==2.15.0
+torchvision==0.29.2
+matplotlib==3.11.2
+Pillow==12.3.0
+datasets==5.1.0

@@ -1,0 +1,28 @@
+{
+  "dataset": "AI-Lab-Makerere/beans",
+  "revision": "27aa014ce09b193e1a6f58112d4a66e0eddb69c5",
+  "classes": [
+    "angular_leaf_spot",
+    "bean_rust",
+    "healthy"
+  ],
+  "counts": {
+    "train": [
+      345,
+      348,
+      341
+    ],
+    "val": [
+      44,
+      45,
+      44
+    ],
+    "test": [
+      20,
+      20,
+      20
+    ]
+  },
+  "license": "MIT",
+  "image_size": 96
+}
